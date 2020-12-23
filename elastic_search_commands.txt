@@ -1,0 +1,8 @@
+1. Retrieve Cluster Health
+GET /_cluster/health
+
+2. Get node information under a cluster
+GET /_cat/nodes?v
+
+3. Get indices information for a cluster
+GET /_cat/indices?v
